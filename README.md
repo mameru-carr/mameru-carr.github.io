@@ -1,2 +1,2 @@
 # mameru-carr.github.io
-My humber blog.
+My humble blog.
